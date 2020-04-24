@@ -1,2 +1,5 @@
 # Myscripts_Bash
-Meus scripts de configurações linux
+
+> Repositório para guadar alguns script de configuração.
+
+
